@@ -1,0 +1,14 @@
+.idea**
+
+.idea/
+.vscode/
+.DS_Store
+*.terraform
+*.iml
+*.zip
+*.gz
+
+*.tfstate
+*.lock.hcl
+
+**__pycache__**
